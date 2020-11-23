@@ -8,5 +8,5 @@ theme = "minos"
 	[[menu.main]]
 		identifier = "about"
 		name = "About"
-		url = "/about/"
+		url = "/content/"
 		weight = 1
